@@ -1,0 +1,21 @@
+SMAP
+adminhome_jsp.java
+JSP
+*S JSP
+*F
++ 0 adminhome.jsp
+admin/adminhome.jsp
++ 1 menu.jsp
+admin/menu.jsp
++ 2 footer.jsp
+admin/footer.jsp
+*L
+5:50
+7,5:52
+11,19:57
+1#1,46:76
+29#0,23:122
+1#2,18:145
+51#0,5:163
+55:167
+*E
